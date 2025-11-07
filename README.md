@@ -59,10 +59,6 @@ ngrok http 5000
 - `tools.py`: ferramentas que o agente pode executar (ex.: criar ticket mock)
 - `.env`: configurações sensíveis
 
-## Como demonstrar no GitHub
-- Adicione screenshots de uma conversa
-- Mostre um vídeo curto (GIF/MP4) do agente respondendo e executando um *tool* (ex.: criar ticket)
-- Documente casos de uso (suporte, automação, classificação)
 
 ## Licença
 MIT
